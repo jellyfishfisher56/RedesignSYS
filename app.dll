@@ -1,0 +1,20 @@
+bs start bt con asd {
+  pin [
+    sac fd start .m .h
+    .l
+   ]
+   op [
+    sac fd end .m .h
+   ]
+   sc rn
+   po run
+}
+as corn {
+  assembely l
+  ui
+}
+assemble {
+  P009 ASC
+  ;int 8
+  ;43 int
+}
